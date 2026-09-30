@@ -1,11 +1,12 @@
 {
-  "name": "react-classname-formatter",
-  "displayName": "React Classname Formatter",
-  "version": "1.0.0",
-  "description": "Format and organize your React className props in one click. This extension makes writing Tailwind and dynamic template literal classes cleaner, faster, and easier than ever — especially inside complex React components.","main": "./extension.js",
+  "name": "react-template-literal-formater",
+  "displayName": "React Template Literal Formater",
+  "version": "1.1.0",
+  "description": "A vscode extension to format and organize React className props in one click, making clean up of Tailwind classes into dynamic template literals classes easier than ever before.",
+  "main": "./extension.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/imhasnainizhar/React-ClassName-Formatter-Cursor-Extension.git"
+    "url": "https://github.com/imhasnainizhar/react-template-literal-formater.git"
   },
   "engines": {
     "vscode": "^1.70.0"
