@@ -27,7 +27,7 @@ This software is provided **"AS IS"**, without warranties or guarantees of any k
 ```
 MIT License
 
-Copyright (c) 2026 Hasnain Izhar
+Copyright (c) 2026 imhasnainizhar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

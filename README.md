@@ -4,7 +4,7 @@
 
 <img alt="ChatGPT Image Sep 30, 2026, 02_31_01 PM" src="https://github.com/user-attachments/assets/a0ec8a43-7d13-4e5c-a2ba-37e4f2ac6f75" width="96" height="96" alt="React Template Literal Formater" />
 
-# React Template Literal Formater
+# React Template Literal Formatter
 
 **A VS Code extension for keeping React `className` attributes clean, readable, and React-friendly.**
 
@@ -21,9 +21,9 @@
 
 ---
 
-## What is React Classname Formatter?
+## What is React Template Literal Formatter?
 
-**React Classname Formatter** is a lightweight VS Code extension designed for React and Tailwind CSS workflows.
+**React Template Literal Formatter** is a lightweight VS Code extension designed for React and Tailwind CSS workflows.
 
 It makes `className` easier to write and maintain by:
 
@@ -253,10 +253,10 @@ See [`LICENSE`](LICENSE) for the full license text.
 
 <div align="center">
 
-**Made for developers who like their JSX clean.**
+**Made with ❤️ for developers who care about the little things.**
 
 <br />
 
-<img src="https://placehold.co/48x48/111111/FFFFFF?text=RCF" width="48" height="48" alt="React Classname Formatter" />
+<img alt="ChatGPT Image Sep 30, 2026, 02_31_01 PM" src="https://github.com/user-attachments/assets/a0ec8a43-7d13-4e5c-a2ba-37e4f2ac6f75" width="96" height="96" alt="React Template Literal Formater" />
 
 </div>
